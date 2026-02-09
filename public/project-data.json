@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/rWZzWSK/university-server.png",
+    "name": "University Management Server — Backend API",
+    "details": "A comprehensive backend API for managing university operations, including user roles (Admin, Student,Faculty), academic semesters, faculties, departments, course offerings, and semester registrations.The system ensures validation and error handling using Zod and custom middleware,integrated MongoDB transactions, role-based access, and conflict-free course scheduling.",
+
+    "tech": "TypeScript, NodeJS, ExpressJS, MongoDB, Mongoose ODM, Zod, Dotenv, ESLint, Prettier",
+    "live_link": "https://university-management-server-backen.vercel.app/",
+    "code_link": "https://github.com/forhadislamse/university-management-server"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/pSQRMWK/product-order.png",
+    "name": "Product-Order Management — Backend API",
+    "details": "A RESTful backend API built for managing products and orders, including product creation, order placement, and inventory updates, used Zod for input validation and structured error handling, managed database interactions with Mongoose ODM and designed with a clean and scalable folder structure.",
+    "tech": "TypeScript, NodeJS, ExpressJS, MongoDB, Mongoose ODM, Zod, Dotenv",
+    "live_link": "https://product-order-management-backend.vercel.app/",
+    "code_link": "https://github.com/forhadislamse/product-order-management-backend"
+  },
+
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/9nWM2SN/speak-hour12.png",
+    "name": "SpeakHour — Full-Stack Language Learning Platform",
+    "details": "SpeakHour is a frontend-only web application designed as a prototype for a foreign language learning platform and implemented user authentication using Firebase (email/password login), integrated with JWT-based session management ",
+    "tech": "ReactJS,ExpressJS, MongoDB, Tailwind CSS, DaisyUI, Firebase, JWT, TanStack Query ",
+    "live_link": "https://speak-hour.web.app/",
+    "code_link": "https://github.com/forhadislamse/speak-hour"
+  },
+
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/xDfHj46/turkish-dinner10.png",
+    "name": "Turkish Dinner — Chef Recipe Showcase Web App",
+    "details": "TurkishDinner is a single-page web application that displays a list of chefs from a Turkish restaurant, allowing users to explore their recipes and detailed menus.",
+    "tech": "ReactJS,ExpressJS,MongoDB, Bootstrap, React Router DOM, Firebase",
+    "live_link": "https://turkish-dinner.web.app/",
+    "code_link": "https://github.com/forhadislamse/turkish-dinner"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/1twsFSM0/wekiddies11.png",
+    "name": "WeKiddies — Toy Marketplace Web Application",
+    "details": "WeKiddies is a full-stack toy marketplace web application where users can browse, add, and manage toy listings with an intuitive and interactive interface.",
+    "tech": "ReactJS,ExpressJS, MongoDB, Tailwind CSS, Swiper.js, SweetAlert2",
+    "live_link": "https://we-kiddies.web.app/",
+    "code_link": "https://github.com/forhadislamse/we-kiddies"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/BftJgJ1/knowledge-cafe8.png",
+    "name": "Knowledge Cafe —  A single-page React application",
+    "details": "Knowledge Cafe is a single page react application where users can see blogs related card , can bookmarked blogs,see reading time statically, read some react related questions and answers .",
+    "tech": "JavaScript, ReactJS, Tailwind CSS, DaisyUI",
+    "live_link": "https://cozy-jalebi-b02d01.netlify.app/",
+    "code_link": "https://github.com/forhadislamse/knowledge-cafe-assignment"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/yN60MVX/career-hub9.png",
+    "name": "Career Hub",
+    "details": "Career hub is a single page react application where users can see some job category lists, dynamic features jobs, statistics for job categories, read some react related questions and answers using blog pages.",
+    "tech": "JavaScript,ReactJS,Tailwind CSS, DaisyUI",
+    "live_link": "https://luxury-sherbet-cf1a90.netlify.app/",
+    "code_link": "https://github.com/forhadislamse/career-hub9"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/6nTckHp/ai-universe-hub6.png",
+    "name": "Ai Universe Hub",
+    "details": "Ai Universe Hub is a simple responsive web application using html, css, bootstrap, javascript where users see some card and its details.I applied here async await function for json data.",
+    "tech": "JavaScript, Bootstrap, HTML5, CSS3 ",
+    "live_link": "https://moonlit-biscotti-1bcc04.netlify.app/",
+    "code_link": "https://github.com/forhadislamse/ai-universe6"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/x8Rs5tX/geo-genius5.png",
+    "name": "Geometry Genius",
+    "details": "Geometry Genius is a simple responsive web application using html, css, tailwind, javascript where users can calculate some geometry and show it in the sidebar.I applied here dom for creating the website.",
+    "tech": "JavaScript, Tailwind CSS, HTML5, CSS3",
+    "live_link": "https://resilient-vacherin-dad2be.netlify.app/",
+    "code_link": "https://github.com/forhadislamse/geometry-genius5"
+  }
+]

@@ -1,0 +1,29 @@
+/* App.css — minimal and compatible with Tailwind */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: whitesmoke;
+  line-height: 1.6;
+  overflow-y: scroll;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 80px;
+
+  /* prevents overlap with fixed header */
+}

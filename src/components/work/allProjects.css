@@ -1,0 +1,29 @@
+.image-wrap {
+    width: 100%;
+    height: 240px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.image-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+    transition: all ease-in-out 2s;
+}
+
+.image-wrap:hover img {
+    object-position: bottom center;
+}
+
+dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(3px);
+}
+
+/* .modal-open {
+    overflow: hidden;
+    padding-right: 15px;
+    Adjust if scrollbar disappears to keep layout stable
+} */
